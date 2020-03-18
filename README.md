@@ -5,3 +5,5 @@
 [Slides Lecture 2](empiricalio2.pdf)
 
 [Notebook on Kernel Density Estimation](kernel-density-example.ipynb)
+
+[Slides Lecture 3](empiricalio3.pdf)
