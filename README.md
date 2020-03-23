@@ -12,7 +12,10 @@
 
 ## Lecture 3
 
+### Lecture Notes
 [Slides Lecture 3](empiricalio3.pdf)
+
+### Tutorial for Python package used
 
 Please install `pyblp`, a Python package that estimates the Berry-Levinsohn-Pakes model. Please run these command lines in an Anaconda Prompt:
 ```
@@ -26,3 +29,7 @@ Please download the following notebooks, read them carefully, and execute the co
 - [Random Coefficient Logit](https://pyblp.readthedocs.io/en/stable/_notebooks/tutorial/nevo.html)
 - [Random Coefficient Logit with Automobile Data](https://pyblp.readthedocs.io/en/stable/_notebooks/tutorial/blp.html)
 - [Post-Estimation](https://pyblp.readthedocs.io/en/stable/_notebooks/tutorial/post_estimation.html)
+
+### Exercise
+
+[Notebook with BLP Exercise](exercise_blp.ipynb)
