@@ -14,7 +14,7 @@
 
 [Slides Lecture 3](empiricalio3.pdf)
 
-Please install `pyblp`, a Python package that estimates the Berry-Levinson-Pakes model. Please run these command lines in an Anaconda Prompt:
+Please install `pyblp`, a Python package that estimates the Berry-Levinsohn-Pakes model. Please run these command lines in an Anaconda Prompt:
 ```
 conda update numpy scipy sympy patsy
 pip install pyblp
