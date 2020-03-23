@@ -10,6 +10,8 @@
 
 [Notebook on Kernel Density Estimation](kernel-density-example.ipynb)
 
+[Solution to Kernel Density Estimation Exercises](kernel-density-solution.ipynb)
+
 ## Lecture 3
 
 ### Lecture Notes
