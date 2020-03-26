@@ -35,3 +35,10 @@ Please download the following notebooks, read them carefully, and execute the co
 ### Exercise
 
 [Notebook with BLP Exercise](exercise_blp.ipynb)
+
+## Lecture 4
+
+[Slides Lecture 4](empiricalio4.pdf)
+
+[Notebook on Maximization and Equation Solving](maximize_solve.ipynb)
+
