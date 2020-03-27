@@ -1,5 +1,11 @@
 # Course information Empirical Industrial Organization 2020 at Cergy Paris Université
 
+## Take-Home Exam
+
+[Notebook Take-Home Exam](take-home-exam.ipynb)
+
+[Dataset for Take-Home Exam](procurement_auction.csv)
+
 ## Lecture 1
 
 [Slides Lecture 1](empiricalio1.pdf)
