@@ -12,6 +12,8 @@
 
 [Solution to Kernel Density Estimation Exercises](kernel-density-solution.ipynb)
 
+[Solution to Kernel Density Estimation, Exercise 2 Under The Assumption of Symmetry](kernel-density-solution-symmetric.ipynb)
+
 ## Lecture 3
 
 ### Lecture Notes
